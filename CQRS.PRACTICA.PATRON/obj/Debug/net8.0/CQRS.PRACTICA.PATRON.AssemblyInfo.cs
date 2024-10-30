@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRS.PRACTICA.PATRON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e952e016a6f35b2e631285a4b8defcc8bf9439c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+209955666ec7f5664d84d852854d7887de455065")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRS.PRACTICA.PATRON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRS.PRACTICA.PATRON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
