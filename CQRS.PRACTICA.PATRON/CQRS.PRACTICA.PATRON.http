@@ -1,0 +1,6 @@
+@CQRS.PRACTICA.PATRON_HostAddress = http://localhost:5218
+
+GET {{CQRS.PRACTICA.PATRON_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
